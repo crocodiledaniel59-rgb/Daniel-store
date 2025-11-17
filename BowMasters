@@ -1,7 +1,7 @@
 {
   "show": true,
   "version_name": "9.3.5",
-  "force_update": false,
+  "force_update": true,
   "title": "Pembaruan baru tersedia!!!",
   "message": "Perbarui ke versi terbaru! anda akan mendapatkan fitur-fitur baru.",
   "button_text": "Perbarui sekarang!",
