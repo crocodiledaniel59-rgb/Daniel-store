@@ -1,7 +1,7 @@
 {
   "update_metadata": {
     "latest_version_name": "2.4.6.8",
-    "required_update": false,
+    "required_update": true,
     "display_popup": true
   },
   "popup_configuration": {
