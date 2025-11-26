@@ -1,11 +1,21 @@
 {
-  "show": true,
-  "version_name": "2.4.6.86",
-  "force_update": true,
-  "title": "Pembaruan baru tersedia!!!",
-  "message": "Perbarui ke versi terbaru! anda akan mendapatkan fitur-fitur baru.",
-  "button_text": "Perbarui sekarang!",
-  "cancel_button_text": "No thank's",
-  "action_url": "https://whatsapp.com/channel/0029Vb6zyAQDeONFZTNuro21",
-  "theme": "indigo"
+  "update_metadata": {
+    "latest_version_name": "2.4.6.8",
+    "required_update": false,
+    "display_popup": true
+  },
+  "popup_configuration": {
+    "title": "Pembaruan Aplikasi Tersedia!",
+    "message": "Kami telah menambahkan fitur-fitur baru dan perbaikan bug! Perbarui sekarang untuk pengalaman terbaik.",
+    "action_button": {
+      "text": "Perbarui Sekarang",
+      "url": "https://whatsapp.com/channel/0029Vb6zyAQDeONFZTNuro21"
+    },
+    "cancel_button": {
+      "text": "Lain Kali",
+      "enabled": true
+    },
+    "theme": "indigo"
+  }
 }
+
