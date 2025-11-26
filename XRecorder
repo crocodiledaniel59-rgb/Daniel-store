@@ -1,0 +1,11 @@
+{
+  "show": true,
+  "version_name": "2.4.6.7",
+  "force_update": false,
+  "title": "Pembaruan baru tersedia!!!",
+  "message": "Perbarui ke versi terbaru! anda akan mendapatkan fitur-fitur baru.",
+  "button_text": "Perbarui sekarang!",
+  "cancel_button_text": "No thank's",
+  "action_url": "https://whatsapp.com/channel/0029Vb6zyAQDeONFZTNuro21",
+  "theme": "indigo"
+}
